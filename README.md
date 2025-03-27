@@ -4,10 +4,10 @@
 
 <br>  
 
-[![License](https://img.shields.io/github/license/nishuR27/cli-toolkit?style=social)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/nishuR27/cli-toolkit?style=social)](https://github.com/nishuR27/cli-toolkit)  
+[![License](https://img.shields.io/github/license/nishuR27/cli-toolkit)](LICENSE)  
+[![Stars](https://img.shields.io/github/stars/nishuR27/cli-toolkit)](https://github.com/nishuR27/cli-toolkit)  
 ![Profile Views](https://komarev.com/ghpvc/?username=nishuR27&color=blueviolet&style=social)  
-[![Follow Me](https://img.shields.io/badge/-Follow%20Me-blueviolet?style=social)](https://github.com/nishuR27)  
+[![Follow Me](https://img.shields.io/badge/-Follow%20Me-blueviolet)](https://github.com/nishuR27)  
 
 <br>  
 
