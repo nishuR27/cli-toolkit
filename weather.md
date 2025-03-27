@@ -4,8 +4,8 @@
 
 <br>
 
-[![License](https://img.shields.io/github/license/nishuR27/cmdWeatherFetch?style=social)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/nishuR27/cmdWeatherFetch?style=social)](https://github.com/nishuR27/cmdWeatherFetch)  
+[![License](https://img.shields.io/github/license/nishuR27/cmdQrInfo?style=social)](LICENSE)  
+[![Stars](https://img.shields.io/github/stars/nishuR27/cmdWeatherFetch?style=social)](https://github.com/nishuR27/cmdQrInfo)  
 ![Profile Views](https://komarev.com/ghpvc/?username=nishuR27&color=blueviolet&style=social)  
 [![Follow Me](https://img.shields.io/badge/-Follow%20Me-blueviolet?style=social)](https://github.com/nishuR27)  
 
@@ -31,6 +31,7 @@ A **lightweight and powerful CLI tool** to fetch real-time weather updates **dir
 ## 📥 Installation  
 
 ### 🔧 **Prerequisites**  
+
 Ensure you have `curl` installed (most systems have it by default). If not, install it:  
 
 ```bash
@@ -44,6 +45,7 @@ brew install curl
 choco install curl  
 ```
 <br>
+
 For Windows users who do not use Chocolatey, you can manually install `curl` from the official [CurL website](https://curl.se/download.html).  
 
 <br>
