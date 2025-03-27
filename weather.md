@@ -4,8 +4,8 @@
 
 <br>
 
-[![License](https://img.shields.io/github/license/nishuR27/cmdQrInfo?style=social)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/nishuR27/cmdWeatherFetch?style=social)](https://github.com/nishuR27/cmdQrInfo)  
+[![License](https://img.shields.io/github/license/nishuR27/cli-toolkit?style=social)](LICENSE)  
+[![Stars](https://img.shields.io/github/stars/nishuR27/cli-toolkit?style=social)](https://github.com/nishuR27/cli-toolkit)  
 ![Profile Views](https://komarev.com/ghpvc/?username=nishuR27&color=blueviolet&style=social)  
 [![Follow Me](https://img.shields.io/badge/-Follow%20Me-blueviolet?style=social)](https://github.com/nishuR27)  
 
@@ -118,7 +118,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 <br>
 
 ### 🌟 Show Some Love  
-If you like this tool, drop a ⭐ on [GitHub](https://github.com/nishuR27/cmdWeatherFetch)! 🚀  
+If you like this tool, drop a ⭐ on [GitHub](https://github.com/nishuR27/cli-toolkit)! 🚀  
 
 <br>
 
