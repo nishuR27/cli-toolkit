@@ -31,10 +31,6 @@ Compatible with **Windows, Linux, and macOS**.
 ### 🔧 **Linux/macOS**  
 Ensure required utilities are installed:  
 ```bash
-# Install Figlet (ASCII Art)
-sudo apt install figlet -y  # Debian/Ubuntu  
-brew install figlet         # macOS (Homebrew)
-
 # Install xclip (Clipboard Manager)
 sudo apt install xclip -y  # Debian/Ubuntu  
 ```
